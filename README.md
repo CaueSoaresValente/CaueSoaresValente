@@ -1,23 +1,12 @@
-# - Olá à todos! 
-## Sejam bem vindos(as) ao meu README.md.
+# 👋 Sobre mim
+Olá! Me chamo Cauê Soares Valente e sou estudante de Desenvolvimento de Sistemas no SENAI "Mariano Ferraz". Tenho o privilégio de aplicar os conhecimentos adquiridos no curso diretamente no meu dia a dia de trabalho na CPTM (**Companhia Paulista de Trens Metropolitanos**), contribuindo com soluções mais eficientes, modernas e alinhadas com as necessidades reais da empresa.
 
-Muito prazer, me chamo Cauê, sou um curioso e dedicado estudante de Desenvolvimento de Sistemas,
-estudo na instuição Senai "Mariano Ferraz".
-Sempre gostei de aprender coisas novas e ficar a cada dia, um pouquinho mais inteligente. Estou
-gostando da área, me identifiquei, estou me realizando em poder fazer parte desse programa que 
-a **Companhia Paulista de Trens Metropolitanos** nos proporcionou. 
+Sou uma pessoa dedicada, curiosa e apaixonada por tecnologia. Acredito no poder transformador da inovação e estou sempre em busca de novos aprendizados que me permitam criar sistemas inteligentes, funcionais e que gerem impacto positivo.
 
-Redes Sociais  [Linkedin](https://www.linkedin.com/in/cau%C3%AA-soares-valente-a78a73201/)
+🎯 Objetivo profissional:
+Minha ambição como profissional é me tornar um desenvolvedor completo, com uma base sólida em back-end e front-end, e também com uma boa visão de negócios e usabilidade. Estou sempre em busca de novos desafios que me tirem da zona de conforto e me ajudem a evoluir tanto tecnicamente quanto pessoalmente.
 
-Portifólio [GitHub](https://github.com/CaueSoaresValente/MoradaNossoLar)
-
-# Trem da CPTM
-
-
-
-
-
-<img src="https://uploads.metroimg.com/wp-content/uploads/2024/09/17180054/cptm_linha7_001.jpg" alt= "Trem CPTM" width="300" />
-
-
+🌐 Vamos nos conectar!
+- 💼 [Linkedin](https://www.linkedin.com/in/cau%C3%AA-soares-valente-a78a73201/)
+- 🚀 [Portfólio no GitHub](https://github.com/CaueSoaresValente?tab=repositories)
 
